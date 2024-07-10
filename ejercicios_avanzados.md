@@ -1,0 +1,4 @@
+- Escribir un script que haga un backup de archivos y los guarde en un directorio de respaldo con la fecha actual
+- Escribir un script que archive y comprima los archivos de logs que superen un tamaño determinado
+- Escribir un script que sincronice archivos de un directorio local a un disco montado utilizando rsync
+- Escribir un script que cree un nuevo usuario, le asigne un grupo especifico y configure permisos para un directorio.
